@@ -74,8 +74,3 @@ The specific consequences will be determined based on the severity and context o
 We are committed to enforcing this Code of Conduct consistently and fairly. We will not tolerate retaliation against anyone who reports a violation in good faith.
 
 This Code of Conduct is a living document and may be updated as needed.
-
----
-
-**Playful Sparkle**
-[Insert Date of Adoption or Last Revision]

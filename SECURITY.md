@@ -8,9 +8,7 @@ If you believe you have discovered a security vulnerability in any of Playful Sp
 
 **Please do not disclose security vulnerabilities publicly through GitHub issues, social media, or other public channels.**
 
-Instead, please report security vulnerabilities directly to us via email at:
-
-[**security@playfulsparkle.com**](mailto:security@playfulsparkle.com)
+Instead, please report security vulnerabilities directly to us via email at [**security@playfulsparkle.com**](mailto:security@playfulsparkle.com).
 
 When reporting a security vulnerability, please provide as much detail as possible to help us understand and reproduce the issue. Including the following information will help us triage your report more efficiently:
 
