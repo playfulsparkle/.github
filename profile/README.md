@@ -26,6 +26,8 @@ Welcome to **Playful Sparkle**, a creative agency specializing in **branding, we
 ## 📢Connect With Us
 
 - 🌐 [Website](https://playfulsparkle.com)
+- 💬 [Support Portal](https://support.playfulsparkle.com)
+- 🐞 [Bug Tracker](https://bugs.playfulsparkle.com)
 - 📧 [Email](mailto:hello@playfulsparkle.com)
 - 🐙 [GitHub](https://github.com/playfulsparkle)
 
